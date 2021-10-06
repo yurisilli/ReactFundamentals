@@ -1,0 +1,9 @@
+.Input {
+    display: flex;
+    flex-direction: column;
+}
+
+.Input input {
+    margin: 2px;
+    font-size: 1.1rem;
+}

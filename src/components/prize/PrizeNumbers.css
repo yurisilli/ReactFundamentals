@@ -1,0 +1,23 @@
+.qttNumberInput {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.btnGeneratePrizeNumbers {
+    justify-content: center;
+    align-self: center;
+    margin: auto;
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: #154360;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
